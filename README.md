@@ -32,7 +32,7 @@ If you have any ideas, suggestions, or feedback, don't hesitate to open an issue
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
 
